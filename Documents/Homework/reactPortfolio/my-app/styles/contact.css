@@ -1,0 +1,15 @@
+.message {
+    width: 200px;
+    height:70px;
+}
+
+input{
+    margin: 5px;
+}
+
+.contactForm{
+    justify-content: center;
+    margin-top: 10%;
+   
+    
+}
