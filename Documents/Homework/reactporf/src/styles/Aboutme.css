@@ -1,0 +1,18 @@
+.prompt{
+    position: relative;
+    margin: 30px;
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: left;
+
+}
+
+.portrait{
+    width: 400px;
+    position: absolute;
+    left: 700px;
+    top:100px
+}
+
+
+
